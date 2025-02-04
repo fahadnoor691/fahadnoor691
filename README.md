@@ -32,7 +32,7 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 </tr>
 <tr>
 	<td><img src = "https://skillicons.dev/icons?i=linux,docker,kubernetes,netlify&theme=dark"></td>
-	<td><img src = "https://skillicons.dev/icons?i=git,windsurf,vscode,github,vim,githubactions&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=git,cursor,vscode,github,vim,githubactions&theme=dark"></td>
 </tr>
 </table>
 
