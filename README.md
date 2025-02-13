@@ -7,7 +7,6 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fahad-noor-98a445200/)
 ![border-seperator](assets/borderseparator.gif) 
   
-![](https://komarev.com/ghpvc/?username=fahadnoor691)
 ## About Fahad
 <p style="font-size:7px;">
 Just a guy looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft really awesome software 
