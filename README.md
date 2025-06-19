@@ -35,12 +35,6 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 </tr>
 </table>
 
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p
-														 
-
-
 ## Latest Blogs
 
 <!-- BLOGPOSTS:START -->
