@@ -37,18 +37,6 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-## Github Trophies
-![](https://github-profile-trophy.vercel.app/?username=fahadnoor691&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-
-## Github Stats
-<p style="display:flex; align=center; justify-content:center; ">
-<img src="https://github-readme-stats.vercel.app/api?username=fahadnoor691&theme=midnight-purple" style="margin-right:4px;">
-<img src="https://streak-stats.demolab.com/?user=fahadnoor691&theme=holi-theme">
-</p>
-
-
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p
 														 
 
